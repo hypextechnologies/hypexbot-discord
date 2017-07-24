@@ -92,4 +92,4 @@ client.on('guildMemberAdd', member => {
   channel.send(`Welcome to the server, ${member}`);
 });
 
-client.login("YOUR TOKEN KEY HERE");
+client.login("YOUR TOKEN KEY HERE"); 
