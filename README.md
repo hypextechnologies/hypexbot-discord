@@ -8,6 +8,12 @@ NOTE - This bot was released on Version 1.1 and will not be updated any further!
  
 FAQ
  
+Should there be more files?
+
+
+We could add many more files but were not here to flood you with a lot of files and folders that are not understandable.
+ 
+ 
 How to add commands?
 
 
