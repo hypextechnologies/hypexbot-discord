@@ -32,3 +32,4 @@ What is the error (node:10304)?
 
 
 Just some random error output that has no effect to the bot, best thing to do is ignore it. Yes it does spam console(If you wanna remove it goto the client.on('error', console.error) and remove it)
+ 
